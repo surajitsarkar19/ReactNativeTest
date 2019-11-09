@@ -1,0 +1,16 @@
+export default {
+  BrandOrange: '#E95C3C',
+  BrandBlue: '#167ADF',
+  midBrandOrange: '#EC6646',
+  lightBrandOrange: '#EF833A',
+  orangeRed: '#EE4000',
+  yellowOrange: '#ffae42',
+  lavenderBlue: '#6599FF',
+  dividerColor: '#d7d7d7',
+  backgroundGrey: '#f1f1f1',
+  textGray: '#a1a1a1',
+  disabledColor: '#c5c5c5',
+  primaryText: '#878787',
+  secondaryText: '#bcbcbc',
+  homeGreen: '#36fcb5',
+};
